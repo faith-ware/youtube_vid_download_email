@@ -10,6 +10,10 @@ This is a script that helps you download youbute video on your pc and sends it t
 Use windows task scheduler to set the script to run every 15 or 20 minutes on your pc.
 
 -- Screenshots 
+
+The email sent from my personal gmail account containing the url
 ![GitHub Logo](https://github.com/faith-ware/images/blob/master/Screenshot_20200816-234949_Gmail.jpg)
 
+
+The email containing the attached video downloaded from the url 
 ![GitHub Logo](https://github.com/faith-ware/images/blob/master/Screenshot_20200816-235040_Gmail.jpg)
